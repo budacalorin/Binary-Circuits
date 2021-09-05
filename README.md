@@ -1,7 +1,7 @@
 # Binary-Circuits
 
 <h1> Description </h1>
-  <p> A simulator for binary circuits, that helps you bettery understand how computers and circuits work and help you develop, test and save simple circuits.<p>
+  <p> A simulator for binary circuits, that helps you better understand how computers and circuits work and help you develop, test and save simple circuits.<p>
 
 <h1> Preview </h1>
 <h2> Create and test a circuit</h2>
